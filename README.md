@@ -1,6 +1,6 @@
 # Emo-Aware-LLM
 
-An emotion-aware AI assistant that uses facial recognition to detect emotions and provide contextual responses using OpenAI's GPT-4.
+An emotion-aware AI assistant that uses facial recognition to detect emotions and provide contextual responses using LLMs.
 
 ## Prerequisites
 
